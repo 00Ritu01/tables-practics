@@ -1,9 +1,11 @@
 # HTML tables-practics
 In this repo i am practics of basics HTML tables 
+
 ## Demo images
 This is the images of html tables.
+
  Table 1
-<viedo src="https://github.com/user-attachments/assets/e58fa0b5-7ee8-4ecb-8105-6d60af2e5947">
+<video src="https://github.com/user-attachments/assets/e58fa0b5-7ee8-4ecb-8105-6d60af2e5947">
  <hr> 
  Table 2
 <img width="1001" alt="Table2" src="https://github.com/user-attachments/assets/471820b9-16c3-47a0-9e51-652bef6e9f36">
@@ -22,8 +24,10 @@ Table 3
  <hr> 
 Table 7
 <img width="1117" alt="Screenshot 2024-07-30 at 2 28 36 AM" src="https://github.com/user-attachments/assets/f360d5d7-ebba-4cb0-8d32-5ea2eb789fe8">
+
 ## Contributors
  Ritu Choudhary
+ 
 ## License
 MasterChef-AI is released under the [MIT License](LICENSE). See the `LICENSE` file for details.
 
