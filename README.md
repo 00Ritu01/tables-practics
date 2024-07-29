@@ -28,8 +28,5 @@ Table 7
 ## Contributors
  Ritu Choudhary
  
-## License
-MasterChef-AI is released under the [MIT License](LICENSE). See the `LICENSE` file for details.
-
 ## Contact
 For any questions or comments, please contact the me.
